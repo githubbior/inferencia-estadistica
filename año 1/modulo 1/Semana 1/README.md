@@ -74,6 +74,10 @@ def modelo_campo(datos):
 
 ### **3.1 Flogisto: El Caso de una Entidad que "Existió"**
 
+<p align="center"><img src="Flogisto.svg" height="800"></p>
+
+<br>
+
 **Análisis Crítico:**
 
 * ¿Por qué científicos inteligentes "vieron" flogisto durante décadas?  
