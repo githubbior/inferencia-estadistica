@@ -45,7 +45,7 @@ def modelo_particulas(datos):
 
 # Modelo 2: Ontología de campo continuo    
 def modelo_campo(datos):  
-    return "Existe un campo continuo muestreado en 5 puntos"`
+    return "Existe un campo continuo muestreado en 5 puntos"
 ```
 
 **Puntos Clave:**
